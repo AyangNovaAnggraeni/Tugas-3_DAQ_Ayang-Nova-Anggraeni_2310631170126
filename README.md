@@ -7,6 +7,11 @@
 **NIM:** 2310631170126  
 **Mata Kuliah:** Data Engineering
 
+## Repository
+
+Project lengkap dapat diakses melalui GitHub:
+
+[GitHub Repository](https://github.com/AyangNovaAnggraeni/Tugas-3_DAQ_Ayang-Nova-Anggraeni_2310631170126.git)
 ---
 
 ## 1. Deskripsi Kasus
@@ -407,6 +412,8 @@ Response JSON berhasil dikonversi menjadi Pandas DataFrame dan melalui tahapan t
 
 Dengan demikian, seluruh tahapan data acquisition dari extraction, transformation, validation, hingga loading berhasil diimplementasikan.
 
-```
+## Repository
 
-```
+Project lengkap dapat diakses melalui GitHub:
+
+[GitHub Repository](https://github.com/USERNAME/REPOSITORY-NAME)
