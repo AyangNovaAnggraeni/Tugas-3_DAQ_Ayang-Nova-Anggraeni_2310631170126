@@ -1,0 +1,571 @@
+country_code,country,year,indicator_name,indicator_variable,value
+ARG,Argentina,2010,GDP growth (annual %),gdp_growth,10.1253981561002
+ARG,Argentina,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.714
+ARG,Argentina,2011,GDP growth (annual %),gdp_growth,6.00395169280579
+ARG,Argentina,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.18
+ARG,Argentina,2012,GDP growth (annual %),gdp_growth,-1.0264204544321
+ARG,Argentina,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.217
+ARG,Argentina,2013,GDP growth (annual %),gdp_growth,2.40532378079436
+ARG,Argentina,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.1
+ARG,Argentina,2014,GDP growth (annual %),gdp_growth,-2.51261532081394
+ARG,Argentina,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.268
+ARG,Argentina,2015,GDP growth (annual %),gdp_growth,2.73115982828944
+ARG,Argentina,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.577
+ARG,Argentina,2016,GDP growth (annual %),gdp_growth,-2.08032784377811
+ARG,Argentina,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.088
+ARG,Argentina,2017,GDP growth (annual %),gdp_growth,2.81850297775918
+ARG,Argentina,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.347
+ARG,Argentina,2018,GDP growth (annual %),gdp_growth,-2.61739646282038
+ARG,Argentina,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.22
+ARG,Argentina,2019,GDP growth (annual %),gdp_growth,-2.00086100285785
+ARG,Argentina,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.843
+ARG,Argentina,2020,GDP growth (annual %),gdp_growth,-9.9004848136464
+ARG,Argentina,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,11.461
+ARG,Argentina,2021,GDP growth (annual %),gdp_growth,10.4418119882506
+ARG,Argentina,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.736
+ARG,Argentina,2022,GDP growth (annual %),gdp_growth,6.02074537534855
+ARG,Argentina,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.805
+ARG,Argentina,2023,GDP growth (annual %),gdp_growth,-1.85578803046339
+ARG,Argentina,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.139
+ARG,Argentina,2024,GDP growth (annual %),gdp_growth,-1.34293072157739
+ARG,Argentina,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.15
+AUS,Australia,2010,GDP growth (annual %),gdp_growth,2.21004795300735
+AUS,Australia,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.214
+AUS,Australia,2011,GDP growth (annual %),gdp_growth,2.39473494330615
+AUS,Australia,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.083
+AUS,Australia,2012,GDP growth (annual %),gdp_growth,3.95247138119184
+AUS,Australia,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.225
+AUS,Australia,2013,GDP growth (annual %),gdp_growth,2.65445302592404
+AUS,Australia,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.663
+AUS,Australia,2014,GDP growth (annual %),gdp_growth,2.60118978187332
+AUS,Australia,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.078
+AUS,Australia,2015,GDP growth (annual %),gdp_growth,2.16434780647852
+AUS,Australia,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.055
+AUS,Australia,2016,GDP growth (annual %),gdp_growth,2.75564065529868
+AUS,Australia,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.711
+AUS,Australia,2017,GDP growth (annual %),gdp_growth,2.29331030192918
+AUS,Australia,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.592
+AUS,Australia,2018,GDP growth (annual %),gdp_growth,2.87417039499501
+AUS,Australia,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.345
+AUS,Australia,2019,GDP growth (annual %),gdp_growth,2.19401703622717
+AUS,Australia,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.143
+AUS,Australia,2020,GDP growth (annual %),gdp_growth,-0.133531904304775
+AUS,Australia,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.394
+AUS,Australia,2021,GDP growth (annual %),gdp_growth,2.00694844335034
+AUS,Australia,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.022
+AUS,Australia,2022,GDP growth (annual %),gdp_growth,4.25304559238732
+AUS,Australia,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.728
+AUS,Australia,2023,GDP growth (annual %),gdp_growth,3.58382100798981
+AUS,Australia,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.668
+AUS,Australia,2024,GDP growth (annual %),gdp_growth,1.37340773365975
+AUS,Australia,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.942
+BRA,Brazil,2010,GDP growth (annual %),gdp_growth,7.52822581815364
+BRA,Brazil,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.42
+BRA,Brazil,2011,GDP growth (annual %),gdp_growth,3.97442307944702
+BRA,Brazil,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.578
+BRA,Brazil,2012,GDP growth (annual %),gdp_growth,1.92117598576537
+BRA,Brazil,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.251
+BRA,Brazil,2013,GDP growth (annual %),gdp_growth,3.00482266944432
+BRA,Brazil,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.071
+BRA,Brazil,2014,GDP growth (annual %),gdp_growth,0.503955740242247
+BRA,Brazil,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.755
+BRA,Brazil,2015,GDP growth (annual %),gdp_growth,-3.54576339269425
+BRA,Brazil,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.538
+BRA,Brazil,2016,GDP growth (annual %),gdp_growth,-3.27591690782192
+BRA,Brazil,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,11.58
+BRA,Brazil,2017,GDP growth (annual %),gdp_growth,1.32286905404399
+BRA,Brazil,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,12.792
+BRA,Brazil,2018,GDP growth (annual %),gdp_growth,1.783666761634
+BRA,Brazil,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,12.329
+BRA,Brazil,2019,GDP growth (annual %),gdp_growth,1.22077782360842
+BRA,Brazil,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,11.936
+BRA,Brazil,2020,GDP growth (annual %),gdp_growth,-3.2767587964736
+BRA,Brazil,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,13.697
+BRA,Brazil,2021,GDP growth (annual %),gdp_growth,4.76260437908608
+BRA,Brazil,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,13.158
+BRA,Brazil,2022,GDP growth (annual %),gdp_growth,3.01669435393015
+BRA,Brazil,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.231
+BRA,Brazil,2023,GDP growth (annual %),gdp_growth,3.24165532906981
+BRA,Brazil,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.947
+BRA,Brazil,2024,GDP growth (annual %),gdp_growth,3.41931516501906
+BRA,Brazil,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.801
+CAN,Canada,2010,GDP growth (annual %),gdp_growth,3.09080633744851
+CAN,Canada,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.178
+CAN,Canada,2011,GDP growth (annual %),gdp_growth,3.1371944343876
+CAN,Canada,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.637
+CAN,Canada,2012,GDP growth (annual %),gdp_growth,1.75566133205234
+CAN,Canada,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.392
+CAN,Canada,2013,GDP growth (annual %),gdp_growth,2.32581356612762
+CAN,Canada,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.143
+CAN,Canada,2014,GDP growth (annual %),gdp_growth,2.87346675579731
+CAN,Canada,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.023
+CAN,Canada,2015,GDP growth (annual %),gdp_growth,0.64997101491096
+CAN,Canada,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.945
+CAN,Canada,2016,GDP growth (annual %),gdp_growth,1.03855091989323
+CAN,Canada,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.038
+CAN,Canada,2017,GDP growth (annual %),gdp_growth,3.03383491841392
+CAN,Canada,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.426
+CAN,Canada,2018,GDP growth (annual %),gdp_growth,2.74296341402246
+CAN,Canada,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.837
+CAN,Canada,2019,GDP growth (annual %),gdp_growth,1.90843193887251
+CAN,Canada,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.69
+CAN,Canada,2020,GDP growth (annual %),gdp_growth,-5.03823342794087
+CAN,Canada,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.657
+CAN,Canada,2021,GDP growth (annual %),gdp_growth,5.95052804984759
+CAN,Canada,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.527
+CAN,Canada,2022,GDP growth (annual %),gdp_growth,4.69541985045903
+CAN,Canada,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.279
+CAN,Canada,2023,GDP growth (annual %),gdp_growth,1.95308552199025
+CAN,Canada,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.415
+CAN,Canada,2024,GDP growth (annual %),gdp_growth,2.04626605401701
+CAN,Canada,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.351
+CHN,China,2010,GDP growth (annual %),gdp_growth,10.5916903885704
+CHN,China,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.53
+CHN,China,2011,GDP growth (annual %),gdp_growth,9.46205248298186
+CHN,China,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.55
+CHN,China,2012,GDP growth (annual %),gdp_growth,7.8578201481217
+CHN,China,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.58
+CHN,China,2013,GDP growth (annual %),gdp_growth,7.77842954757257
+CHN,China,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.6
+CHN,China,2014,GDP growth (annual %),gdp_growth,7.46100735778161
+CHN,China,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.63
+CHN,China,2015,GDP growth (annual %),gdp_growth,6.98162255562367
+CHN,China,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.65
+CHN,China,2016,GDP growth (annual %),gdp_growth,6.7736886867727
+CHN,China,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.56
+CHN,China,2017,GDP growth (annual %),gdp_growth,6.89123916636191
+CHN,China,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.47
+CHN,China,2018,GDP growth (annual %),gdp_growth,6.757806142324
+CHN,China,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.31
+CHN,China,2019,GDP growth (annual %),gdp_growth,6.06737806333672
+CHN,China,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.56
+CHN,China,2020,GDP growth (annual %),gdp_growth,2.33950385203023
+CHN,China,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.0
+CHN,China,2021,GDP growth (annual %),gdp_growth,8.57038414981781
+CHN,China,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.55
+CHN,China,2022,GDP growth (annual %),gdp_growth,3.13385438394069
+CHN,China,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.98
+CHN,China,2023,GDP growth (annual %),gdp_growth,5.41600334492955
+CHN,China,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.67
+CHN,China,2024,GDP growth (annual %),gdp_growth,4.95830378788091
+CHN,China,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.59
+DEU,Germany,2010,GDP growth (annual %),gdp_growth,4.13463778522758
+DEU,Germany,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.043
+DEU,Germany,2011,GDP growth (annual %),gdp_growth,3.75796884489337
+DEU,Germany,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.967
+DEU,Germany,2012,GDP growth (annual %),gdp_growth,0.463512036709204
+DEU,Germany,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.372
+DEU,Germany,2013,GDP growth (annual %),gdp_growth,0.396995583779145
+DEU,Germany,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.316
+DEU,Germany,2014,GDP growth (annual %),gdp_growth,2.18018602168017
+DEU,Germany,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.979
+DEU,Germany,2015,GDP growth (annual %),gdp_growth,1.66300602334775
+DEU,Germany,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.612
+DEU,Germany,2016,GDP growth (annual %),gdp_growth,2.22222216259371
+DEU,Germany,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.104
+DEU,Germany,2017,GDP growth (annual %),gdp_growth,2.797906720551
+DEU,Germany,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.781
+DEU,Germany,2018,GDP growth (annual %),gdp_growth,1.13569604599849
+DEU,Germany,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.384
+DEU,Germany,2019,GDP growth (annual %),gdp_growth,0.977734697038784
+DEU,Germany,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.163
+DEU,Germany,2020,GDP growth (annual %),gdp_growth,-4.13191443239947
+DEU,Germany,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.881
+DEU,Germany,2021,GDP growth (annual %),gdp_growth,3.90999994204108
+DEU,Germany,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.594
+DEU,Germany,2022,GDP growth (annual %),gdp_growth,1.8092581243061
+DEU,Germany,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.137
+DEU,Germany,2023,GDP growth (annual %),gdp_growth,-0.869647578573321
+DEU,Germany,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.071
+DEU,Germany,2024,GDP growth (annual %),gdp_growth,-0.495851897260366
+DEU,Germany,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.4
+FRA,France,2010,GDP growth (annual %),gdp_growth,2.00032476039051
+FRA,France,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.279
+FRA,France,2011,GDP growth (annual %),gdp_growth,2.43757653729007
+FRA,France,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.228
+FRA,France,2012,GDP growth (annual %),gdp_growth,0.183835264973013
+FRA,France,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.841
+FRA,France,2013,GDP growth (annual %),gdp_growth,0.781756446231
+FRA,France,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.913
+FRA,France,2014,GDP growth (annual %),gdp_growth,0.997832947295251
+FRA,France,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,10.273
+FRA,France,2015,GDP growth (annual %),gdp_growth,1.06675474783462
+FRA,France,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,10.354
+FRA,France,2016,GDP growth (annual %),gdp_growth,0.860031075424033
+FRA,France,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,10.057
+FRA,France,2017,GDP growth (annual %),gdp_growth,2.08361485997399
+FRA,France,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.409
+FRA,France,2018,GDP growth (annual %),gdp_growth,1.64590872395887
+FRA,France,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.018
+FRA,France,2019,GDP growth (annual %),gdp_growth,2.02744646419237
+FRA,France,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.415
+FRA,France,2020,GDP growth (annual %),gdp_growth,-7.44064589948231
+FRA,France,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.009
+FRA,France,2021,GDP growth (annual %),gdp_growth,6.88233783360239
+FRA,France,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.871
+FRA,France,2022,GDP growth (annual %),gdp_growth,2.71676264185913
+FRA,France,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.303
+FRA,France,2023,GDP growth (annual %),gdp_growth,1.43921494437743
+FRA,France,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.335
+FRA,France,2024,GDP growth (annual %),gdp_growth,1.19046798275883
+FRA,France,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.4
+GBR,United Kingdom,2010,GDP growth (annual %),gdp_growth,2.26054460931586
+GBR,United Kingdom,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.973
+GBR,United Kingdom,2011,GDP growth (annual %),gdp_growth,0.851437739020326
+GBR,United Kingdom,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.195
+GBR,United Kingdom,2012,GDP growth (annual %),gdp_growth,1.52826034721852
+GBR,United Kingdom,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.279
+GBR,United Kingdom,2013,GDP growth (annual %),gdp_growth,1.71846961308464
+GBR,United Kingdom,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.752
+GBR,United Kingdom,2014,GDP growth (annual %),gdp_growth,3.16017351468152
+GBR,United Kingdom,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.398
+GBR,United Kingdom,2015,GDP growth (annual %),gdp_growth,2.14040560033371
+GBR,United Kingdom,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.552
+GBR,United Kingdom,2016,GDP growth (annual %),gdp_growth,2.20652020635357
+GBR,United Kingdom,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.909
+GBR,United Kingdom,2017,GDP growth (annual %),gdp_growth,3.02322219840339
+GBR,United Kingdom,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.501
+GBR,United Kingdom,2018,GDP growth (annual %),gdp_growth,1.55133095078786
+GBR,United Kingdom,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.145
+GBR,United Kingdom,2019,GDP growth (annual %),gdp_growth,1.25629899760824
+GBR,United Kingdom,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.657
+GBR,United Kingdom,2020,GDP growth (annual %),gdp_growth,-10.047896637362
+GBR,United Kingdom,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.472
+GBR,United Kingdom,2021,GDP growth (annual %),gdp_growth,8.5431118453255
+GBR,United Kingdom,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.864
+GBR,United Kingdom,2022,GDP growth (annual %),gdp_growth,5.14970388522993
+GBR,United Kingdom,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.768
+GBR,United Kingdom,2023,GDP growth (annual %),gdp_growth,0.271650048355255
+GBR,United Kingdom,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.025
+GBR,United Kingdom,2024,GDP growth (annual %),gdp_growth,1.08027716858781
+GBR,United Kingdom,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.361
+IDN,Indonesia,2010,GDP growth (annual %),gdp_growth,6.22385418062366
+IDN,Indonesia,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.614
+IDN,Indonesia,2011,GDP growth (annual %),gdp_growth,6.16978420771008
+IDN,Indonesia,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.153
+IDN,Indonesia,2012,GDP growth (annual %),gdp_growth,6.03005065305615
+IDN,Indonesia,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.468
+IDN,Indonesia,2013,GDP growth (annual %),gdp_growth,5.5572636889101
+IDN,Indonesia,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.336
+IDN,Indonesia,2014,GDP growth (annual %),gdp_growth,5.006668425755
+IDN,Indonesia,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.049
+IDN,Indonesia,2015,GDP growth (annual %),gdp_growth,4.87632230022123
+IDN,Indonesia,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.514
+IDN,Indonesia,2016,GDP growth (annual %),gdp_growth,5.03306918280177
+IDN,Indonesia,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.301
+IDN,Indonesia,2017,GDP growth (annual %),gdp_growth,5.06978590134916
+IDN,Indonesia,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.783
+IDN,Indonesia,2018,GDP growth (annual %),gdp_growth,5.17429153955024
+IDN,Indonesia,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.387
+IDN,Indonesia,2019,GDP growth (annual %),gdp_growth,5.01928768046282
+IDN,Indonesia,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.59
+IDN,Indonesia,2020,GDP growth (annual %),gdp_growth,-2.06551182934165
+IDN,Indonesia,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.255
+IDN,Indonesia,2021,GDP growth (annual %),gdp_growth,3.70288562827751
+IDN,Indonesia,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.827
+IDN,Indonesia,2022,GDP growth (annual %),gdp_growth,5.30719722664799
+IDN,Indonesia,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.462
+IDN,Indonesia,2023,GDP growth (annual %),gdp_growth,5.04883117855516
+IDN,Indonesia,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.308
+IDN,Indonesia,2024,GDP growth (annual %),gdp_growth,5.03257477088519
+IDN,Indonesia,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.301
+IND,India,2010,GDP growth (annual %),gdp_growth,8.49758470165625
+IND,India,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.631
+IND,India,2011,GDP growth (annual %),gdp_growth,5.24131620024293
+IND,India,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.609
+IND,India,2012,GDP growth (annual %),gdp_growth,5.45638755164772
+IND,India,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.645
+IND,India,2013,GDP growth (annual %),gdp_growth,6.38610640091713
+IND,India,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.678
+IND,India,2014,GDP growth (annual %),gdp_growth,7.41022760516977
+IND,India,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.656
+IND,India,2015,GDP growth (annual %),gdp_growth,7.99625378567987
+IND,India,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.629
+IND,India,2016,GDP growth (annual %),gdp_growth,8.25630550176662
+IND,India,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.611
+IND,India,2017,GDP growth (annual %),gdp_growth,6.79538341902422
+IND,India,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.626
+IND,India,2018,GDP growth (annual %),gdp_growth,6.45385134495295
+IND,India,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.652
+IND,India,2019,GDP growth (annual %),gdp_growth,3.87143694070524
+IND,India,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.51
+IND,India,2020,GDP growth (annual %),gdp_growth,-5.77772470687303
+IND,India,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.859
+IND,India,2021,GDP growth (annual %),gdp_growth,9.68959249191741
+IND,India,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.38
+IND,India,2022,GDP growth (annual %),gdp_growth,7.6093649776932
+IND,India,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.822
+IND,India,2023,GDP growth (annual %),gdp_growth,7.210224629335
+IND,India,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.172
+IND,India,2024,GDP growth (annual %),gdp_growth,7.09927893176518
+IND,India,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.173
+ITA,Italy,2010,GDP growth (annual %),gdp_growth,1.52910573247101
+ITA,Italy,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.363
+ITA,Italy,2011,GDP growth (annual %),gdp_growth,0.695463154440176
+ITA,Italy,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.359
+ITA,Italy,2012,GDP growth (annual %),gdp_growth,-3.12523877282996
+ITA,Italy,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,10.655
+ITA,Italy,2013,GDP growth (annual %),gdp_growth,-1.81802510749792
+ITA,Italy,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,12.149
+ITA,Italy,2014,GDP growth (annual %),gdp_growth,-0.00138761730454462
+ITA,Italy,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,12.683
+ITA,Italy,2015,GDP growth (annual %),gdp_growth,0.885667635240807
+ITA,Italy,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,11.896
+ITA,Italy,2016,GDP growth (annual %),gdp_growth,1.23622108511661
+ITA,Italy,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,11.688
+ITA,Italy,2017,GDP growth (annual %),gdp_growth,1.60369995294101
+ITA,Italy,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,11.211
+ITA,Italy,2018,GDP growth (annual %),gdp_growth,0.826646712344115
+ITA,Italy,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,10.538
+ITA,Italy,2019,GDP growth (annual %),gdp_growth,0.429162533780342
+ITA,Italy,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.884
+ITA,Italy,2020,GDP growth (annual %),gdp_growth,-8.86822122185345
+ITA,Italy,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.192
+ITA,Italy,2021,GDP growth (annual %),gdp_growth,8.93106210800055
+ITA,Italy,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.497
+ITA,Italy,2022,GDP growth (annual %),gdp_growth,4.82117669913565
+ITA,Italy,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.069
+ITA,Italy,2023,GDP growth (annual %),gdp_growth,0.922796543670316
+ITA,Italy,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.627
+ITA,Italy,2024,GDP growth (annual %),gdp_growth,0.783039135276795
+ITA,Italy,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.5
+JPN,Japan,2010,GDP growth (annual %),gdp_growth,4.13645589222239
+JPN,Japan,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.102
+JPN,Japan,2011,GDP growth (annual %),gdp_growth,-0.20035785332982
+JPN,Japan,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.55
+JPN,Japan,2012,GDP growth (annual %),gdp_growth,1.64893452981225
+JPN,Japan,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.358
+JPN,Japan,2013,GDP growth (annual %),gdp_growth,1.99727653399265
+JPN,Japan,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.038
+JPN,Japan,2014,GDP growth (annual %),gdp_growth,0.905915486065865
+JPN,Japan,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.589
+JPN,Japan,2015,GDP growth (annual %),gdp_growth,1.79997735783475
+JPN,Japan,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.385
+JPN,Japan,2016,GDP growth (annual %),gdp_growth,0.704986495111257
+JPN,Japan,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.132
+JPN,Japan,2017,GDP growth (annual %),gdp_growth,1.62345062245441
+JPN,Japan,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.822
+JPN,Japan,2018,GDP growth (annual %),gdp_growth,0.834143845965585
+JPN,Japan,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.467
+JPN,Japan,2019,GDP growth (annual %),gdp_growth,-0.308496921143259
+JPN,Japan,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.351
+JPN,Japan,2020,GDP growth (annual %),gdp_growth,-4.28327942675573
+JPN,Japan,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.809
+JPN,Japan,2021,GDP growth (annual %),gdp_growth,3.56419531474475
+JPN,Japan,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.808
+JPN,Japan,2022,GDP growth (annual %),gdp_growth,1.33164750653741
+JPN,Japan,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.614
+JPN,Japan,2023,GDP growth (annual %),gdp_growth,0.720785304749811
+JPN,Japan,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.6
+JPN,Japan,2024,GDP growth (annual %),gdp_growth,-0.240084236041696
+JPN,Japan,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.5
+KOR,"Korea, Rep.",2010,GDP growth (annual %),gdp_growth,6.98166138853071
+KOR,"Korea, Rep.",2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.324
+KOR,"Korea, Rep.",2011,GDP growth (annual %),gdp_growth,3.6880320602952
+KOR,"Korea, Rep.",2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.992
+KOR,"Korea, Rep.",2012,GDP growth (annual %),gdp_growth,2.54766550568242
+KOR,"Korea, Rep.",2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.812
+KOR,"Korea, Rep.",2013,GDP growth (annual %),gdp_growth,3.2913959543442
+KOR,"Korea, Rep.",2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.067
+KOR,"Korea, Rep.",2014,GDP growth (annual %),gdp_growth,3.21468019683108
+KOR,"Korea, Rep.",2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.082
+KOR,"Korea, Rep.",2015,GDP growth (annual %),gdp_growth,2.92029267301234
+KOR,"Korea, Rep.",2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.546
+KOR,"Korea, Rep.",2016,GDP growth (annual %),gdp_growth,3.17152748983935
+KOR,"Korea, Rep.",2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.65
+KOR,"Korea, Rep.",2017,GDP growth (annual %),gdp_growth,3.433191763972
+KOR,"Korea, Rep.",2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.653
+KOR,"Korea, Rep.",2018,GDP growth (annual %),gdp_growth,3.17611568177327
+KOR,"Korea, Rep.",2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.824
+KOR,"Korea, Rep.",2019,GDP growth (annual %),gdp_growth,2.31380210595475
+KOR,"Korea, Rep.",2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.746
+KOR,"Korea, Rep.",2020,GDP growth (annual %),gdp_growth,-0.700242317542106
+KOR,"Korea, Rep.",2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.931
+KOR,"Korea, Rep.",2021,GDP growth (annual %),gdp_growth,4.61296795454287
+KOR,"Korea, Rep.",2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.639
+KOR,"Korea, Rep.",2022,GDP growth (annual %),gdp_growth,2.72756456708991
+KOR,"Korea, Rep.",2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.857
+KOR,"Korea, Rep.",2023,GDP growth (annual %),gdp_growth,1.58301467403629
+KOR,"Korea, Rep.",2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.675
+KOR,"Korea, Rep.",2024,GDP growth (annual %),gdp_growth,2.00361101838986
+KOR,"Korea, Rep.",2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.784
+MEX,Mexico,2010,GDP growth (annual %),gdp_growth,4.9713345832195
+MEX,Mexico,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.303
+MEX,Mexico,2011,GDP growth (annual %),gdp_growth,3.44404505297089
+MEX,Mexico,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.175
+MEX,Mexico,2012,GDP growth (annual %),gdp_growth,3.55321076010608
+MEX,Mexico,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.892
+MEX,Mexico,2013,GDP growth (annual %),gdp_growth,0.852101550164704
+MEX,Mexico,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.921
+MEX,Mexico,2014,GDP growth (annual %),gdp_growth,2.50376350783593
+MEX,Mexico,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.819
+MEX,Mexico,2015,GDP growth (annual %),gdp_growth,2.70232343024026
+MEX,Mexico,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.311
+MEX,Mexico,2016,GDP growth (annual %),gdp_growth,1.7724932254128
+MEX,Mexico,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.853
+MEX,Mexico,2017,GDP growth (annual %),gdp_growth,1.87172854648381
+MEX,Mexico,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.419
+MEX,Mexico,2018,GDP growth (annual %),gdp_growth,1.97208211101069
+MEX,Mexico,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.275
+MEX,Mexico,2019,GDP growth (annual %),gdp_growth,-0.392690513290532
+MEX,Mexico,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.477
+MEX,Mexico,2020,GDP growth (annual %),gdp_growth,-8.35403459379062
+MEX,Mexico,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.44
+MEX,Mexico,2021,GDP growth (annual %),gdp_growth,6.04848347173572
+MEX,Mexico,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.019
+MEX,Mexico,2022,GDP growth (annual %),gdp_growth,3.70975708309098
+MEX,Mexico,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.256
+MEX,Mexico,2023,GDP growth (annual %),gdp_growth,3.1067964131456
+MEX,Mexico,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.765
+MEX,Mexico,2024,GDP growth (annual %),gdp_growth,1.35057631384696
+MEX,Mexico,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.678
+RUS,Russian Federation,2010,GDP growth (annual %),gdp_growth,4.49999999920672
+RUS,Russian Federation,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.407
+RUS,Russian Federation,2011,GDP growth (annual %),gdp_growth,4.30002918604238
+RUS,Russian Federation,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.571
+RUS,Russian Federation,2012,GDP growth (annual %),gdp_growth,4.0240861571798
+RUS,Russian Federation,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.484
+RUS,Russian Federation,2013,GDP growth (annual %),gdp_growth,1.75542214916291
+RUS,Russian Federation,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.513
+RUS,Russian Federation,2014,GDP growth (annual %),gdp_growth,0.736267221403651
+RUS,Russian Federation,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.212
+RUS,Russian Federation,2015,GDP growth (annual %),gdp_growth,-1.9727192264298
+RUS,Russian Federation,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.615
+RUS,Russian Federation,2016,GDP growth (annual %),gdp_growth,0.193671130698817
+RUS,Russian Federation,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.591
+RUS,Russian Federation,2017,GDP growth (annual %),gdp_growth,1.82670527549192
+RUS,Russian Federation,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.238
+RUS,Russian Federation,2018,GDP growth (annual %),gdp_growth,2.80634082046656
+RUS,Russian Federation,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.871
+RUS,Russian Federation,2019,GDP growth (annual %),gdp_growth,2.19807571381982
+RUS,Russian Federation,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.513
+RUS,Russian Federation,2020,GDP growth (annual %),gdp_growth,-2.65365449695453
+RUS,Russian Federation,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.62
+RUS,Russian Federation,2021,GDP growth (annual %),gdp_growth,5.866491772979
+RUS,Russian Federation,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.749
+RUS,Russian Federation,2022,GDP growth (annual %),gdp_growth,-1.43537063467896
+RUS,Russian Federation,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.867
+RUS,Russian Federation,2023,GDP growth (annual %),gdp_growth,4.06661395813023
+RUS,Russian Federation,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.076
+RUS,Russian Federation,2024,GDP growth (annual %),gdp_growth,4.92167966203073
+RUS,Russian Federation,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,2.43
+SAU,Saudi Arabia,2010,GDP growth (annual %),gdp_growth,5.0395150823517
+SAU,Saudi Arabia,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.55
+SAU,Saudi Arabia,2011,GDP growth (annual %),gdp_growth,11.758820686671
+SAU,Saudi Arabia,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.77
+SAU,Saudi Arabia,2012,GDP growth (annual %),gdp_growth,5.76157382270968
+SAU,Saudi Arabia,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.622
+SAU,Saudi Arabia,2013,GDP growth (annual %),gdp_growth,2.94563789152025
+SAU,Saudi Arabia,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.6
+SAU,Saudi Arabia,2014,GDP growth (annual %),gdp_growth,4.02467158380668
+SAU,Saudi Arabia,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.877
+SAU,Saudi Arabia,2015,GDP growth (annual %),gdp_growth,4.65512316652699
+SAU,Saudi Arabia,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.6
+SAU,Saudi Arabia,2016,GDP growth (annual %),gdp_growth,1.70404739202878
+SAU,Saudi Arabia,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.6
+SAU,Saudi Arabia,2017,GDP growth (annual %),gdp_growth,1.18210705878283
+SAU,Saudi Arabia,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.89
+SAU,Saudi Arabia,2018,GDP growth (annual %),gdp_growth,3.2269508901591
+SAU,Saudi Arabia,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.029
+SAU,Saudi Arabia,2019,GDP growth (annual %),gdp_growth,1.65158925617395
+SAU,Saudi Arabia,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.636
+SAU,Saudi Arabia,2020,GDP growth (annual %),gdp_growth,-3.80478901996312
+SAU,Saudi Arabia,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.66
+SAU,Saudi Arabia,2021,GDP growth (annual %),gdp_growth,6.51959698325419
+SAU,Saudi Arabia,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.621
+SAU,Saudi Arabia,2022,GDP growth (annual %),gdp_growth,12.0005874752929
+SAU,Saudi Arabia,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.589
+SAU,Saudi Arabia,2023,GDP growth (annual %),gdp_growth,0.542592439393161
+SAU,Saudi Arabia,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.008
+SAU,Saudi Arabia,2024,GDP growth (annual %),gdp_growth,2.64893068308965
+SAU,Saudi Arabia,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.518
+TUR,Turkiye,2010,GDP growth (annual %),gdp_growth,8.54219848467686
+TUR,Turkiye,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,11.879
+TUR,Turkiye,2011,GDP growth (annual %),gdp_growth,10.9799625273598
+TUR,Turkiye,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.789
+TUR,Turkiye,2012,GDP growth (annual %),gdp_growth,4.80762696633448
+TUR,Turkiye,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.21
+TUR,Turkiye,2013,GDP growth (annual %),gdp_growth,8.48825689298511
+TUR,Turkiye,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.713
+TUR,Turkiye,2014,GDP growth (annual %),gdp_growth,4.60079447270559
+TUR,Turkiye,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.901
+TUR,Turkiye,2015,GDP growth (annual %),gdp_growth,5.80557386628684
+TUR,Turkiye,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,10.304
+TUR,Turkiye,2016,GDP growth (annual %),gdp_growth,3.32366508200445
+TUR,Turkiye,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,10.899
+TUR,Turkiye,2017,GDP growth (annual %),gdp_growth,7.82585730002594
+TUR,Turkiye,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,10.919
+TUR,Turkiye,2018,GDP growth (annual %),gdp_growth,3.46815306092219
+TUR,Turkiye,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,10.956
+TUR,Turkiye,2019,GDP growth (annual %),gdp_growth,1.30162365464503
+TUR,Turkiye,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,13.73
+TUR,Turkiye,2020,GDP growth (annual %),gdp_growth,1.80306247087255
+TUR,Turkiye,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,13.148
+TUR,Turkiye,2021,GDP growth (annual %),gdp_growth,11.811094450607
+TUR,Turkiye,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,11.969
+TUR,Turkiye,2022,GDP growth (annual %),gdp_growth,5.44122511322401
+TUR,Turkiye,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,10.465
+TUR,Turkiye,2023,GDP growth (annual %),gdp_growth,5.04512369812289
+TUR,Turkiye,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.388
+TUR,Turkiye,2024,GDP growth (annual %),gdp_growth,3.3276230893799
+TUR,Turkiye,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.8
+USA,United States,2010,GDP growth (annual %),gdp_growth,2.69519258673525
+USA,United States,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,9.633
+USA,United States,2011,GDP growth (annual %),gdp_growth,1.56440685205419
+USA,United States,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.949
+USA,United States,2012,GDP growth (annual %),gdp_growth,2.28911339009767
+USA,United States,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.069
+USA,United States,2013,GDP growth (annual %),gdp_growth,2.11783009443471
+USA,United States,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,7.375
+USA,United States,2014,GDP growth (annual %),gdp_growth,2.52381981757846
+USA,United States,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,6.168
+USA,United States,2015,GDP growth (annual %),gdp_growth,2.94555045227337
+USA,United States,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.28
+USA,United States,2016,GDP growth (annual %),gdp_growth,1.81945147909089
+USA,United States,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.869
+USA,United States,2017,GDP growth (annual %),gdp_growth,2.45762230126449
+USA,United States,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.355
+USA,United States,2018,GDP growth (annual %),gdp_growth,2.96650506701943
+USA,United States,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.896
+USA,United States,2019,GDP growth (annual %),gdp_growth,2.58382533052225
+USA,United States,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.669
+USA,United States,2020,GDP growth (annual %),gdp_growth,-2.081375977796
+USA,United States,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,8.055
+USA,United States,2021,GDP growth (annual %),gdp_growth,6.15202247867526
+USA,United States,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,5.349
+USA,United States,2022,GDP growth (annual %),gdp_growth,2.52421385073222
+USA,United States,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.65
+USA,United States,2023,GDP growth (annual %),gdp_growth,2.93436322440155
+USA,United States,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,3.638
+USA,United States,2024,GDP growth (annual %),gdp_growth,2.79318715363841
+USA,United States,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,4.022
+ZAF,South Africa,2010,GDP growth (annual %),gdp_growth,3.03973288127956
+ZAF,South Africa,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,24.683
+ZAF,South Africa,2011,GDP growth (annual %),gdp_growth,3.16855627858818
+ZAF,South Africa,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,24.639
+ZAF,South Africa,2012,GDP growth (annual %),gdp_growth,2.39623238465745
+ZAF,South Africa,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,24.727
+ZAF,South Africa,2013,GDP growth (annual %),gdp_growth,2.48546800826588
+ZAF,South Africa,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,24.561
+ZAF,South Africa,2014,GDP growth (annual %),gdp_growth,1.41382645223793
+ZAF,South Africa,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,24.89
+ZAF,South Africa,2015,GDP growth (annual %),gdp_growth,1.32186223678229
+ZAF,South Africa,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,25.149
+ZAF,South Africa,2016,GDP growth (annual %),gdp_growth,0.664552307858116
+ZAF,South Africa,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,26.536
+ZAF,South Africa,2017,GDP growth (annual %),gdp_growth,1.15794695181735
+ZAF,South Africa,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,27.035
+ZAF,South Africa,2018,GDP growth (annual %),gdp_growth,1.55678384721676
+ZAF,South Africa,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,26.906
+ZAF,South Africa,2019,GDP growth (annual %),gdp_growth,0.25993557687633
+ZAF,South Africa,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,28.468
+ZAF,South Africa,2020,GDP growth (annual %),gdp_growth,-6.1689177146757
+ZAF,South Africa,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,29.217
+ZAF,South Africa,2021,GDP growth (annual %),gdp_growth,4.85864865060148
+ZAF,South Africa,2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,34.007
+ZAF,South Africa,2022,GDP growth (annual %),gdp_growth,2.05813661692193
+ZAF,South Africa,2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,33.268
+ZAF,South Africa,2023,GDP growth (annual %),gdp_growth,0.80610455095804
+ZAF,South Africa,2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,32.098
+ZAF,South Africa,2024,GDP growth (annual %),gdp_growth,0.534843531905139
+ZAF,South Africa,2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,32.279
