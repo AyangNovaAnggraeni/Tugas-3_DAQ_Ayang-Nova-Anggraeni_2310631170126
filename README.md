@@ -1,4 +1,4 @@
-````markdown
+
 # Tugas 3 — Data Acquisition
 
 ## Analisis Pertumbuhan Ekonomi dan Tingkat Pengangguran Negara G20 Periode 2010–2024
