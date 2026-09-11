@@ -54,10 +54,8 @@ Tidak diperlukan API key untuk endpoint yang digunakan pada project ini.
 
 Endpoint utama yang digunakan:
 
-```text
+
 https://api.worldbank.org/v2/country/{countries}/indicator/{indicator}
-```
-````
 
 Parameter yang digunakan:
 
