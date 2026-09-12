@@ -411,9 +411,3 @@ Proses acquisition menggunakan HTTP GET, timeout handling, HTTP status checking,
 Response JSON berhasil dikonversi menjadi Pandas DataFrame dan melalui tahapan transformasi serta validasi data. Hasil akhir tidak memiliki missing values maupun duplicate observations dan berhasil disimpan dalam format CSV dan Parquet.
 
 Dengan demikian, seluruh tahapan data acquisition dari extraction, transformation, validation, hingga loading berhasil diimplementasikan.
-
-## Repository
-
-Project lengkap dapat diakses melalui GitHub:
-
-[GitHub Repository](https://github.com/USERNAME/REPOSITORY-NAME)
